@@ -1,0 +1,37 @@
+body{
+    width: 50%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.container{
+    width: 360px;
+}
+ 
+#input-field{
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+#addtodo{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    font-size: 30px;
+}
+
+.to-dos{
+    margin-top: 25px;
+
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
